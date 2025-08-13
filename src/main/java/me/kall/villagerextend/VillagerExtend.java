@@ -1,6 +1,7 @@
 package me.kall.villagerextend;
 
-import net.minecraftforge.fml.common.Mod;
+
+import net.neoforged.fml.common.Mod;
 
 @Mod(VillagerExtend.MOD_ID)
 public final class VillagerExtend {
