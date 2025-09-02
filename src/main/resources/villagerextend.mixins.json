@@ -10,6 +10,8 @@
   "client": [
   ],
   "mixins": [
+    "ItemStackMixin",
+    "SimpleContainerAccessor",
     "VillagerMixin"
   ],
   "injectors": {
